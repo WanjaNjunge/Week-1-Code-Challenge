@@ -24,7 +24,10 @@ To run each script, simply open the file in your JavaScript editor of choice and
 
 Use the following code for the respective scripts:
 1. node student-grades.js
-2. node speeding-demerits.js
+2. node speeding-demerits.js 
+
+## Author
+[Wanja Njunge](https://github.com/WanjaNjunge)
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
